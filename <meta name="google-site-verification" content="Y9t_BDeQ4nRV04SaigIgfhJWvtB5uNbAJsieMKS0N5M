@@ -1,0 +1,159 @@
+Verificación del sitio de GoogleMozilla/5.0 (compatible; Google-Site-Verification/1.0).
+http://ejemplo.com
+http://www.ejemplo.com
+https://example.com/RonaldoGomezContacto/Verificado/user/webcam./example.com/Contacto.Oficial/página
+Verificación del sitio de GoogleMozilla/5.0 (compatible; Google-Site-Verification/1.0).
+<cabeza>
+
+<title>Página principal de example.com</title>
+
+<meta name="google-site-verification" content="......." />
+
+</cabeza>
+<html>
+
+  <cabeza>
+
+    <title>Título de la página</title>
+
+    <meta name="google-site-verification" content="cadena de verificación">
+
+  </cabeza>
+
+<cuerpo>
+
+...
+<meta name="google-site-verification" content="Y9t_BDeQ4nRV04SaigIgfhJWvtB5uNbAJsieMKS0N5M" />
+<!-- Etiqueta de Google (gtag.js) -->
+
+... (en este espacio hay varias líneas de código) ...
+
+</script>
+https://www.google-analytics.com/analytics.js','ga
+{
+
+    "exportFormatVersion": 2,
+
+    "exportTime": "2022-09-04 17:20:29",
+
+    "containerVersion": {
+
+        "path": "accounts/6056251423/containers/93098151/versions/1",
+
+        "accountId": "6056251423",
+
+        "containerId": "93098151",
+
+        "containerVersionId": "1",
+
+        "name": "Empty Container",
+
+        "container": {
+
+            "path": "accounts/6056251423/containers/93098151",
+
+            "accountId": "6056251423",
+
+            "containerId": "93098151",
+
+            "name": "www.ronaldomisitio.com",
+
+            "publicId": "GTM-W4Q3TJ3",
+
+            "usageContext": [
+
+                "WEB"
+
+            ],
+
+            "fingerprint": "1662311779211",
+
+            "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6056251423/containers/93098151/workspaces?apiLink=container"
+
+        },
+
+        "builtInVariable": [
+
+            {
+
+                "accountId": "6056251423",
+
+                "containerId": "93098151",
+
+                "type": "PAGE_URL",
+
+                "name": "Page URL"
+
+            },
+
+            {
+
+                "accountId": "6056251423",
+
+                "containerId": "93098151",
+
+                "type": "PAGE_HOSTNAME",
+
+                "name": "Page Hostname"
+
+            },
+
+            {
+
+                "accountId": "6056251423",
+
+                "id del contenedor": "93098151",
+ga('create', 'UA-XXXXX-Y', 'auto');
+
+ga('send', 'pageview');
+
+// becomes
+
+const trackingId = data.trackingId;
+
+ga('create', trackingId, 'auto');
+
+ga('send', 'pageview');
+                "tipo": "PAGINA_RUTA",https://www.google-analytics.com/analytics.js
+
+                "name": "Page Path"
+
+            },
+
+            {
+
+                "accountId": "6056251423",
+
+                "containerId": "93098151",
+
+                "type": "REFERRER",
+
+                "name": "Referrer"
+
+            },
+
+            {
+
+                "accountId": "6056251423",
+
+                "containerId": "93098151",
+
+                "type": "EVENT",
+
+                "name": "Event"
+
+            }
+
+        ],
+
+        "fingerprint": "1662308732538",
+
+        "tagManagerUrl": "https://tagmanager.google.com/#/versions/accounts/6056251423/containers/93098151/versions/1?apiLink=version"
+
+    }
+<head>.
+}<!-- Etiqueta de <body>Google (gtag.js) -->
+
+... (en este espacio hay varias líneas de código) ...<head>
+<cabeza>const setInWindow = require('setInWindow');
+</script>ventana.ga=ventana.ga=window.ga=
